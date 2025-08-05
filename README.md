@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ankit KUmar</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate full-stack developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=spidey-777&label=Profile%20views&color=0e75b6&style=flat" alt="spidey-777" /> </p>
 
@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **damoliaankit428@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1Rq6T2k4MTP3WPQ78flek048gwNLvJHVU/view?usp=drive_link](https://drive.google.com/file/d/1Rq6T2k4MTP3WPQ78flek048gwNLvJHVU/view?usp=drive_link)
+- 📄 my Resume [https://drive.google.com/file/d/1Rq6T2k4MTP3WPQ78flek048gwNLvJHVU/view?usp=drive_link](https://drive.google.com/file/d/1Rq6T2k4MTP3WPQ78flek048gwNLvJHVU/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
